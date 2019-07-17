@@ -1,0 +1,36 @@
+body{
+	background-color: white;
+	color: black;
+	font-family: all;
+}
+.container{
+	background-color: #eee;
+	
+}
+
+.content{
+	background-color: white;
+	
+}
+#paragrafi{
+	padding-bottom: 15px;
+	margin-right:  25%;
+	margin-left: 25%;
+	
+}
+.text-center{
+	text-align: center;
+}
+.position{
+	margin-right: 25%;
+	margin-left: 25%;
+}
+
+	
+
+
+}
+.lista{
+	margin-right: 25%;
+	margin-left: 25%;
+}
